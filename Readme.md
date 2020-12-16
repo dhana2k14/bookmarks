@@ -14,3 +14,4 @@
 - [x] [Book: A Guide for black box models explainable](https://christophm.github.io/interpretable-ml-book/)
 - [x] [Book: Data Visualization - A practical introduction](https://socviz.co/index.html#preface)
 - [x] [Book: Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+- [x] [Book: Practical Natural Language Processing](https://github.com/practical-nlp/practical-nlp)
