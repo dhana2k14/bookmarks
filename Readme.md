@@ -16,7 +16,7 @@
 - [x] [Book: Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 - [x] [Book: Practical Natural Language Processing](https://github.com/practical-nlp/practical-nlp)
 
-
+---
 ### Azure Resources
 - [1] [Azure Machine Learning service Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/)
 
@@ -79,3 +79,10 @@
 5. [Labeling tool](https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/quickstarts/label-tool)
 6. [Training Data](https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/build-training-data-set)
 7. [Case study](https://azure.microsoft.com/en-us/resources/videos/learn-about-ai-powered-robotic-process-automation-with-form-recognizer/)
+
+---
+
+#### Azure Worshop Materials
+1. [Azure AML Workshop by Microsoft](https://drive.google.com/file/d/1gmKjc6Na-REgtRvz2UT6YUuqyu6RiH4u/view?usp=sharing)
+2. [Azure Decks](https://drive.google.com/file/d/12m_xk3vCeNHjOwmMzlCvUN1nR_oNDTC0/view?usp=sharing)
+3. [Azure LUIS](https://drive.google.com/file/d/1z7d4WKDk6SDfRyY0_MF-5Hqd8tRW2GQe/view?usp=sharing)
