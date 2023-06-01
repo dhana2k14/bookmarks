@@ -36,6 +36,8 @@
 #### Model Deployment with AML service  
 - [x] [Deployment for Real-time scoring](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-deploy-models-with-aml)
 - [x] [Deployment for Batch-scoring – AML Pipelines](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-pipeline-batch-scoring-classification)
+- [x] [Deploy models to an online endpoint managed by AML] (https://learn.microsoft.com/en-us/azure/machine-learning/how-to-r-deploy-r-model?view=azureml-api-2&tabs=azure-studio)
+- [x]  
 
 #### Monitoring Models in Deployment
 1. https://docs.microsoft.com/en-us/azure/machine-learning/how-to-enable-data-collection
